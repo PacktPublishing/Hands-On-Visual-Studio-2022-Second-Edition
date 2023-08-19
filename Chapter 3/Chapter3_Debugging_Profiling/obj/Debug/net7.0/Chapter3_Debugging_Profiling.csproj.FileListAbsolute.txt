@@ -1,0 +1,15 @@
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\bin\Debug\net7.0\Chapter3_Debugging_Profiling.exe
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\bin\Debug\net7.0\Chapter3_Debugging_Profiling.deps.json
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\bin\Debug\net7.0\Chapter3_Debugging_Profiling.runtimeconfig.json
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\bin\Debug\net7.0\Chapter3_Debugging_Profiling.dll
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\bin\Debug\net7.0\Chapter3_Debugging_Profiling.pdb
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\obj\Debug\net7.0\Chapter3_Debugging_Profiling.csproj.AssemblyReference.cache
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\obj\Debug\net7.0\Chapter3_Debugging_Profiling.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\obj\Debug\net7.0\Chapter3_Debugging_Profiling.AssemblyInfoInputs.cache
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\obj\Debug\net7.0\Chapter3_Debugging_Profiling.AssemblyInfo.cs
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\obj\Debug\net7.0\Chapter3_Debugging_Profiling.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\obj\Debug\net7.0\Chapter3_Debugging_Profiling.dll
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\obj\Debug\net7.0\refint\Chapter3_Debugging_Profiling.dll
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\obj\Debug\net7.0\Chapter3_Debugging_Profiling.pdb
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\obj\Debug\net7.0\Chapter3_Debugging_Profiling.genruntimeconfig.cache
+F:\Visual Studio 2022 2nd Edition book\Chapter 3\source\Chapter3_Debugging_Profiling\Chapter3_Debugging_Profiling\obj\Debug\net7.0\ref\Chapter3_Debugging_Profiling.dll
