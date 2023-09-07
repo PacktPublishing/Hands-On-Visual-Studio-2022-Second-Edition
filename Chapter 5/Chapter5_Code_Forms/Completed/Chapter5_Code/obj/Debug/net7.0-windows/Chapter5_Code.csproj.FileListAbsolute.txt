@@ -1,0 +1,16 @@
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\bin\Debug\net7.0-windows\Chapter5_Code.exe
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\bin\Debug\net7.0-windows\Chapter5_Code.deps.json
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\bin\Debug\net7.0-windows\Chapter5_Code.runtimeconfig.json
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\bin\Debug\net7.0-windows\Chapter5_Code.dll
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\bin\Debug\net7.0-windows\Chapter5_Code.pdb
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\obj\Debug\net7.0-windows\Chapter5_Code.Form1.resources
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\obj\Debug\net7.0-windows\Chapter5_Code.csproj.GenerateResource.cache
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\obj\Debug\net7.0-windows\Chapter5_Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\obj\Debug\net7.0-windows\Chapter5_Code.AssemblyInfoInputs.cache
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\obj\Debug\net7.0-windows\Chapter5_Code.AssemblyInfo.cs
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\obj\Debug\net7.0-windows\Chapter5_Code.csproj.CoreCompileInputs.cache
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\obj\Debug\net7.0-windows\Chapter5_Code.dll
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\obj\Debug\net7.0-windows\refint\Chapter5_Code.dll
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\obj\Debug\net7.0-windows\Chapter5_Code.pdb
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\obj\Debug\net7.0-windows\Chapter5_Code.genruntimeconfig.cache
+C:\Users\hprez\source\repos\Chapter5_Code\Chapter5_Code\obj\Debug\net7.0-windows\ref\Chapter5_Code.dll
