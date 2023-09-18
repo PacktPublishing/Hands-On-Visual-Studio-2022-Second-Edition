@@ -1,0 +1,17 @@
+﻿@Chapter6_Code_API_HostAddress = https://localhost:7244
+
+GET {{Chapter6_Code_API_HostAddress}}/books/1
+
+###
+
+POST {{Chapter6_Code_API_HostAddress}}/books
+Content-Type: application/json
+
+{
+  "id": 5,
+  "title": "Moby Dick",
+  "author": "Herman Melville",
+  "genre": "Adventure"
+}
+
+###
